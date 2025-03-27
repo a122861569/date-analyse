@@ -1,4 +1,7 @@
 # date-analyse
-数据分析
-day01
-通过python对两个csv文件进行合并并且清洗,删除那些多余的列。再通过mysql命令行实现csv文件导入到mysql中。
+## **day_01**
+### **读取和合并 CSV 文件,并进行清洗**
+通过 `pandas` 读取 CSV 文件并合并、清洗：
+![image](https://github.com/user-attachments/assets/d9f464bb-8b2f-411f-862e-3eba7dd658e3)
+### **导入清洗后的文件到mysql**
+![image](https://github.com/user-attachments/assets/ae1abda6-2c8c-494e-9098-7235b73bd639)
